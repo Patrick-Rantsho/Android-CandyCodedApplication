@@ -12,7 +12,6 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_28" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-09T11:07:06.897Z" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../VOLUNTEAM/VOLUNTEAM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recommended.upgrade.last.time.stamp" value="1601824267285" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
@@ -297,13 +296,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601986828720</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task2---complete">
+      <created>1602241883002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602241883002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1 complited" />
     <MESSAGE value="Task1---complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task1---complete" />
+    <MESSAGE value="Task2---complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2---complete" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1602237712495">
@@ -330,30 +337,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="538" y="129" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1602240816264" />
-    <state x="194" y="0" key="CommitChangelistDialog2" timestamp="1602241854148">
+    <state x="194" y="0" key="CommitChangelistDialog2" timestamp="1602241877693">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="194" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602241854148" />
+    <state x="194" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602241877693" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601988204722">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601988204722" />
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1602241635402">
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom" timestamp="1602274336177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602241635402" />
-    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1602241635402">
+    <state width="1323" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602274336177" />
+    <state width="1323" height="136" key="GridCell.Tab.0.center" timestamp="1602274336177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602241635402" />
-    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1602241635402">
+    <state width="1323" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602274336177" />
+    <state width="1323" height="136" key="GridCell.Tab.0.left" timestamp="1602274336177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602241635402" />
-    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1602241635402">
+    <state width="1323" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602274336177" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right" timestamp="1602274336177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602241635402" />
+    <state width="1323" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602274336177" />
     <state width="1323" height="222" key="GridCell.Tab.1.bottom" timestamp="1602240903816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -386,14 +393,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="110" y="120" width="1146" height="488" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1601726143730" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602231357997">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1602274219137">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602231357997" />
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601986285198">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1602274219137" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602274826164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601986285198" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602274826164" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1601730931381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
