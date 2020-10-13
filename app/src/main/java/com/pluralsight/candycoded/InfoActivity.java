@@ -44,7 +44,7 @@ public void createMapIntent(View view){
      */
  public void createPhoneIntent(View view){
    // Uri phoneNumber = Uri.parse("tel:0123456789");
-    //Intent phoneIntent = new Intent(Intent.ACTION_CALL);
+    //Intent phoneIntent = new Intent(Intent.ACTION_DIAL);
     //phoneIntent.setData(phoneNumber);
     //startActivity(phoneIntent);
      Intent phoneIntent = new Intent(Intent.ACTION_DIAL);
